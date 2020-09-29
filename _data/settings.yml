@@ -4,7 +4,7 @@ description: A blog on the typography of books from different genres I found on
 header_text: Always Judge a Book by its Cover?
 footer_text: Caitlin Eatwell
 header_feature_image: ../uploads/bookshelf_auto_x2.jpg
-bannerheight: 10vmax
+bannerheight: 20vmax
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
