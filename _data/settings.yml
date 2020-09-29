@@ -1,12 +1,12 @@
-title: Typography on my Bookshelf
-description: A blog on the typography of books from different genres I found on
-  my bookshelf.
-header_text: Typography on my Bookshelf
+title: On the Shelf
+description: ""
+header_text: Always Judge a Book by its Cover?
 footer_text: Caitlin Eatwell
-header_feature_image: ../uploads/pages.jpg
+header_feature_image: ../uploads/blog-banner.jpg
 bannerheight: 20vmax
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
-fixednavbar: false
+fixednavbar: true
 upzoom: true
+items: []
