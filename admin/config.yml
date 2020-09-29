@@ -1,14 +1,14 @@
 backend:
   name: github
-  repo: Caitlinlucia/Typography-on-my-bookshelf # Path to your GitHub repository
+  repo: Caitlinlucia/on-the-shelf # Path to your GitHub repository
   branch: master # Branch to update (master by default)
-  site_domain: typographyonmybookshelf.netlify.app #Your site on netlify
+  site_domain: ontheshelf.netlify.app #Your site on netlify
   use_graphql: true
 
 publish_mode: editorial_workflow
 show_preview_links: true
-display_url: https://typographyonmybookshelf.netlify.app
-logo_url: https://typographyonmybookshelf.netlify.app/uploads/face.jpg
+display_url: https://ontheshelf.netlify.app
+logo_url: https://ontheshelf.netlify.app/uploads/face.jpg
 
 # Do NOT edit below this line
 
