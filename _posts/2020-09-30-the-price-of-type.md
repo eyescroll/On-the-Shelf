@@ -3,8 +3,8 @@ layout: post
 title: The Price of Type
 date: 2020-09-30T16:13:07.983Z
 header_feature_image: ../uploads/2015-personal-edition.jpg
-caption: A look at how the book covers of the romantic novel; The Price of Salt
-  has developed over its editions.
+caption: A look brief look at the first edition of Patricia Highsmith's lesbian
+  classic The Price Of Salt.
 comments: true
 ---
 *The Price of Salt*, written in 1952 by Patricia Highsmith under the pseudonym Claire Morgan is a romance novel that follows the story of Therese, an aspiring stage designer in New York who falls in love with Carol, a housewife in the middle of a divorce and vicious battle over the custody of her daughter. What ensues is a tale of finding oneself, the complicated matter of love and a heart-breaking observation of the social attitudes towards same-sex relationships at that time. The book has since been republished as *Carol* as well as being adapted into a movie in 2015 and published as an ebook and audiobook. The repeated republishing of hard copies since 1952 has inevitably resulted in a plethora of book covers, all of which brandish different typefaces that reflect attitudes towards the book and its themes over time. However, the most interesting and potentially misleading design is that of the very first edition.
@@ -17,6 +17,8 @@ The first edition of *The Price of Salt* was published by Coward McCann Publishi
 
 So why did Highsmith and Coward McCann choose such a misleading design? Well the most obvious may be that they didn't want to bring too much unwanted attention to it given its controversy at the time so disguised it with a less appealing cover that would not prompt romance fanatics to pick it up unless they were seeking it, as well as protect them from questions regarding its place on their bookshelf (for example sapphic readers, closeted or otherwise). Alternatively, it may be that in some ways Highsmith saw the novel as of the same kind as her other works. She was primarily a crime writer, specialising in psychological thrillers (such as *The Talented Mr. Ripley*) that provided a criminal protagonist who went through a transformation that blurred the lines between moral and immoral, acceptable and unacceptable, much like Therese goes through a transformation as she discovers she loves Carol, forcing the reader to question whether her love for another woman can truly be immoral knowing how she came to love her.
 
-"\[Their] desire to transform through a transgression is something Therese and Carol have in common with Tom Ripley from Highsmith’s Ripley series and, a bit more obliquely, Guy Haines from *Strangers on a Train*. Although unlike Ripley and Haines, Therese and Carol never commit a murder or even a violent act, Highsmith has woven a sense of menace through the novel." - John Copenhaver 2015 in "Is Patricia Highsmith's lesbian classic 'The Price of Salt' crime fiction?"
+"\[Their] desire to transform through a transgression is something Therese and Carol have in common with Tom Ripley from Highsmith’s Ripley series and, a bit more obliquely, Guy Haines from *Strangers on a Train*. Although unlike Ripley and Haines, Therese and Carol never commit a murder or even a violent act, Highsmith has woven a sense of menace through the novel." - John Copenhaver, 2015 in "Is Patricia Highsmith's lesbian classic *The Price of Salt* crime fiction?"*
 
 Perhaps then, this book cover was less unconventional for its genre than initially believed by a 21st century reader. The similarities between the deeper plot meanings of *The Price of Salt* and Highsmith's other works suggest that Highsmith's own definition of what genre a novel belongs in transcends below simple romance or crime, justifying the danger and psychologically stimulating cover *The Price of Salt* was initially published in.
+
+\*<https://www.lambdaliterary.org/2015/12/is-patricia-highsmiths-lesbian-classic-the-price-of-salt-crime-fiction/>
