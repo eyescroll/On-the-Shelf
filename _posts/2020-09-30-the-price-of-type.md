@@ -9,7 +9,7 @@ comments: true
 ---
 *The Price of Salt*, written in 1952 by Patricia Highsmith under the pseudonym Claire Morgan is a romance novel that follows the story of Therese, an aspiring stage designer in New York who falls in love with Carol, a housewife in the middle of a divorce and vicious battle over the custody of her daughter. What ensues is a tale of finding oneself, the complicated matter of love and a heart-breaking observation of the social attitudes towards same-sex relationships at that time. The book has since been republished as *Carol* as well as being adapted into a movie in 2015 and published as an ebook and audiobook. The repeated republishing of hard copies since 1952 has inevitably resulted in a plethora of book covers, all of which brandish different typefaces that reflect attitudes towards the book and its themes over time. However, the most interesting and potentially misleading design is that of the very first edition.
 
-## 1952 (1st) Edition
+## 1952 First Edition
 
 ![](../uploads/1952-edition.jpg "1952 Edition")
 
@@ -19,4 +19,4 @@ So why did Highsmith and Coward McCann choose such a misleading design? Well the
 
 "\[Their] desire to transform through a transgression is something Therese and Carol have in common with Tom Ripley from Highsmith’s Ripley series and, a bit more obliquely, Guy Haines from *Strangers on a Train*. Although unlike Ripley and Haines, Therese and Carol never commit a murder or even a violent act, Highsmith has woven a sense of menace through the novel." - John Copenhaver 2015 in "Is Patricia Highsmith's lesbian classic 'The Price of Salt' crime fiction?"
 
-Perhaps then, this book cover was less unconventional for its genre as initially believed by a 21st century reader. The similarities between the deeper plot meanings of *The Price of Salt* and Highsmith's other works suggest that Highsmith's own definition of what genre a novel belongs in transcends below simple romance or crime, justifying the danger and psychologically stimulating cover *The Price of Salt* was initially published in.
+Perhaps then, this book cover was less unconventional for its genre than initially believed by a 21st century reader. The similarities between the deeper plot meanings of *The Price of Salt* and Highsmith's other works suggest that Highsmith's own definition of what genre a novel belongs in transcends below simple romance or crime, justifying the danger and psychologically stimulating cover *The Price of Salt* was initially published in.
