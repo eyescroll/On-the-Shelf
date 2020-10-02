@@ -2,7 +2,7 @@
 layout: page
 title: About This Blog
 subtitle: ""
-permalink: /about/
+permalink: about
 date: 2020-06-29T15:36:12.231Z
 header_feature_image: ../uploads/blog-banner.jpg
 published: true
