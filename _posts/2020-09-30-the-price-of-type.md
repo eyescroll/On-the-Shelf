@@ -2,7 +2,7 @@
 layout: post
 title: The Price of Type
 date: 2020-10-01T15:22:07.800Z
-header_feature_image: ../uploads/2015-personal-edition.jpg
+header_feature_image: ../uploads/2015-personal-edition-enhanced.jpg
 caption: A look brief look at the first edition of Patricia Highsmith's lesbian
   classic The Price Of Salt.
 comments: true
