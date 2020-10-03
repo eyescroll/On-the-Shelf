@@ -10,4 +10,4 @@ The two recipe books I will be looking at are aimed at entirely different demogr
 
 ## *The Adventurous Eaters Club*
 
-![](../uploads/misha-cookbook.jpg)
+![](../uploads/misha-cookbook.jpg "The Adventurous Eaters Club")
