@@ -18,7 +18,7 @@ Looking deeper, the some of the typography is equally carefree while other parts
 
 When focusing solely on the text on the cover and ignoring the image, the fact that *'The Adventurous'* is the only text with a cursive font draws attention to it, highlighting the theme of the book's recipes as 'adventurous' and fun. This provides an explanation for the less flowing design of the rest of the text, as rather than aiming to provide another interpretation of the book's purpose, the structurally plain text aims more to take as little attention away as possible from the main word of the title. The second part of text that catches the browser's eye is 'eaters club'. A larger and bolder font than the others demonstrates the importance that the book is for everybody in a family (as everybody is technically an 'eater') while the use and highlighting of the word 'club' drives home a sense of community and togetherness, matching the book's theme of family cooking. The fact that the key parts of the cover's text all have attention-seeking but vastly different typefaces ensures that each key word is noticed without blending together with each other or the less important aspects (such as the authors' names or the subtitle).
 
-## The Hungry Student One Pot Cookbook
+## *The Hungry Student One Pot Cookbook*
 
 ![](../uploads/hungry-student-cookbook.jpg "The Hungry Student One Pot Cookbook")
 
