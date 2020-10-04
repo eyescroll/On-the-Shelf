@@ -11,3 +11,9 @@ The two recipe books I will be looking at are aimed at entirely different demogr
 ## *The Adventurous Eaters Club*
 
 ![](../uploads/misha-cookbook.jpg "The Adventurous Eaters Club")
+
+As previously mentioned, *The Adventurous Eaters Club* is aimed at encouraging family cooking, particularly healthy family cooking. This is clearly evident from a first glance at the book's cover design; it displays an image of the writers in their kitchen with their children, surrounded by green and leafy vegetables. All of them are smiling and looking carefree except the son, who is instead extremely concentrated on cutting a block of cheese. 
+
+Looking deeper, the some of the typography is equally carefree while other parts look curiously formal and out of place. There are two main typefaces on the front cover; '*The Adventurous'* is cursive and free flowing, while the rest of the text is structured and fully capitalised. All of the text is white and frames the busiest part of the cover's image, presumably in an attempt not to take too much attention from the photo. This is likely because of the celebrity authorship of the book, as a TV star, much of Misha's marketing and advertisement reached fans of his acting work, so his presence on the cover is an important selling point. 
+
+When focusing solely on the text on the cover and ignoring the image, the fact that *'The Adventurous'* is the only text with a different font draws attention to it, highlighting the theme of the book's recipes as 'adventurous' and fun. This provides an explanation for the less than adventurous design of the rest of the text, as rather than aiming to provide another interpretation of the book's purpose, the structurally plain text aims more to take as little attention away as possible from the main word of the title.
