@@ -23,6 +23,10 @@ So why did Highsmith and Coward McCann choose such a misleading design? Well the
 
 Perhaps then, this book cover was less unconventional for its genre than initially believed by a 21st century reader. The similarities between the deeper plot meanings of *The Price of Salt* and Highsmith's other works suggest that Highsmith's own definition of what genre a novel belongs in transcends below simple romance or crime, justifying the danger and psychologically stimulating cover *The Price of Salt* was initially published in.
 
-The Goodreads link to the most recent paperback edition of The Price of Salt can be found here: <https://www.goodreads.com/book/show/40987793-the-price-of-salt> 
+##### Find the book on Goodreads: 
+
+*Latest paperback edition -* <https://www.goodreads.com/book/show/40987793-the-price-of-salt> 
+
+*All editions -* <https://www.goodreads.com/work/editions/50983-the-price-of-salt> 
 
 \*<https://www.lambdaliterary.org/2015/12/is-patricia-highsmiths-lesbian-classic-the-price-of-salt-crime-fiction/>
