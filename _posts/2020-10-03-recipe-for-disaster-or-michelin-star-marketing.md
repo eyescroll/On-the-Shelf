@@ -2,7 +2,7 @@
 layout: post
 title: Recipe For Disaster or Michelin Star Marketing?
 date: 2020-10-03T12:58:01.922Z
-header_feature_image: ../uploads/recipe-close-up.jpg
+header_feature_image: ../uploads/recipe-close-up-rotated.jpg
 caption: A look at the importance of typography in relation to cookbook cover designs.
 comments: true
 ---
