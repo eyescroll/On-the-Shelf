@@ -4,8 +4,8 @@ header_text: Always Judge a Book by its Cover?
 footer_text: Caitlin Eatwell
 header_feature_image: ../uploads/blog-banner.jpg
 bannerheight: 20vmax
-logo: /uploads/logo.jpg
-favicon: /uploads/favicon.ico
+logo: ../uploads/on-the-shelf.png
+favicon: ../uploads/on-the-shelf.png
 gridlayout: false
 fixednavbar: true
 upzoom: true
